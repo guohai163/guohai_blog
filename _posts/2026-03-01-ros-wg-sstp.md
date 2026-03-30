@@ -19,7 +19,7 @@ image: /doc-pic/2020-03/ros-l2tp/youtube.png
 
 本教程的思路是“成年人全都要”。我们将利用 ROSv7 的强大路由能力，搭建双隧道容灾架构。当 WireGuard (UDP) 被阻断的瞬间，路由器会自动无缝切换到 SSTP 隧道，确保业务不断线；当封锁解除，又会自动恢复极速的 WireGuard 通道。
 
-![架构图](/doc-pic/2026-03/rosv7-vpn.png)
+![架构图](/doc-pic/2026-03/ros-gfw/rosv7-vpn.png)
 
 ### 一、 VPS 服务端环境搭建
 
