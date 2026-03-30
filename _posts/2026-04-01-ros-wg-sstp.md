@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "在家庭网络中使用RouterOS v7打造WireGuard+SSTP双隧道"
-date:   2020-01-01 01:59:06
+date:   2026-04-01 01:59:06
 categories: [routeros, vpn]
 tags: [routeros, vpn, gfw]
 image: /doc-pic/2020-03/ros-l2tp/youtube.png
